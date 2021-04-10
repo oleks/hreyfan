@@ -1,0 +1,27 @@
+<p align="center">
+  <img width="250px" src="images/raven.svg">
+</p>
+
+# Hreyfan — A Programming Language for Mobile Code
+
+## Origin of the name and logo
+
+Hreyfan is old-Norse and Icelandic for "movement". Its pronounciation
+in Icelandic is close to the English word "raven". Indeed, the English
+and old-Norse words are deeply intertwined—Vikings used ravens to help
+them navigate the seas, and discover new lands: They would take a
+number of ravens with them onboard their ships. Once sufficiently far
+out at sea, they would release a raven, note the direction in which it
+flew, and if the raven did not come back, they could draw a hypothesis
+that there was land in that direction.
+
+Much as ravens enabled Viking mobility throughout the world, Hreyfan
+enables code mobility throughout the world. Such a Norse-themed name
+was chosen because Hreyfan is heavily inspired by the programming
+languages Emerald and [Erlang](https://www.erlang.org/), both having
+significant Scandinavian roots.
+
+## Credits
+
+* Logo by [Freepik](https://www.freepik.com), made available at
+  [Flaticon](https://www.flaticon.com).
