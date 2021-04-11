@@ -4,6 +4,12 @@
 
 # Hreyfan — A Programming Language for Mobile Code
 
+Hreyfan is a distributed systems programming language, intended for
+applications where program components can be spatially distributed and
+mobile. It is an object-based language, with typestate-oriented
+features for ensuring safe communication, and a static, modal type
+system for ensuring safe use of mobile resources.
+
 ## Origin of the name and logo
 
 Hreyfan is old-Norse and Icelandic for "movement". Its pronounciation
