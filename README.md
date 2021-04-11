@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="250px" src="images/raven.svg">
+  <img src="images/raven.svg">
 </p>
 
 # Hreyfan — A Programming Language for Mobile Code
