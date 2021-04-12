@@ -29,5 +29,5 @@ significant Scandinavian roots.
 
 ## Credits
 
-* Logo by [Freepik](https://www.freepik.com), made available at
-  [Flaticon](https://www.flaticon.com).
+* Logo hand-drawn by [@athas](https://github.com/athas/), converted to
+  vector graphics by [@oleks](https://github.com/oleks/)
