@@ -23,7 +23,7 @@ that there was land in that direction.
 
 Much as ravens enabled Viking mobility throughout the world, Hreyfan
 enables code mobility throughout the world. Such a Norse-themed name
-was chosen because Hreyfan is heavily inspired by the programming
+was also chosen because Hreyfan is heavily inspired by the programming
 languages Emerald and [Erlang](https://www.erlang.org/), both having
 significant Scandinavian roots.
 
